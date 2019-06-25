@@ -46,4 +46,4 @@ I recommend using **console-colors** if you don't want to read more.
   
 ![](https://i.imgur.com/wA9YnWN.png)
 
-![](https://i.imgur.com/Mk43ba8.png)
+![](https://i.imgur.com/0wD4SM1.png)
